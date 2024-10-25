@@ -460,7 +460,7 @@ nina
 
 instruktion: **6**
 programmerare: **jonas**
-uppgifter: färdiga 2 ofärdiga 1, timmar: gjorda 55 ogjorda 1000
+uppgifter: färdiga 1 ofärdiga 1, timmar: gjorda 55 ogjorda 1000
 
 </sample-output>
 
