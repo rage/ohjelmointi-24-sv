@@ -395,7 +395,7 @@ class Telefonkatalog:
 Själva sparandet till filen bör hanteras av `FilHanterare`-klassen. Låt oss lägga till metoden `spara` som tar en ordlistsrepresentation av telefonkatalogen som argument:
 
 ```python
-class FilHanterare():
+class FilHanterare:
     def __init__(self, fil):
         self.__fil = fil
 
